@@ -40,8 +40,8 @@ Input:
 1 1 3
 2 3 5
 ```
-Output:
 
+Output:
 ```bash
 Iteration 0: Normalized [[1.0, 1.0, 3.0], [2.0, 3.0, 5.0]]
 Iteration 0: Row operations [[1.0, 1.0, 3.0], [0.0, 1.0, -1.0]]
@@ -52,11 +52,16 @@ SOLUTION 1 = -1
 3
 5
 ```
+
 This will result in a unique solution:
 ```bash
 x = 4
 y = -1
-'''
+```
 
-
+Verification:<br>
+Substitute 𝑥 = 4 and 𝑦 = − 1 into the original equations:<br>
+First equation:<br>
+4 + ( − 1 ) = 3<br>
+This is true,as 3 = 3 3=3.
 

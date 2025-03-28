@@ -23,7 +23,7 @@ To run the program, simply provide the augmented matrix as input:
 cargo run
 ```
 ## Example 1: Unique Solution
-For the system of equations:
-x + y = 3
-2x + 3y = 5
+For the system of equations:<br>
+x + y = 3<br>
+2x + 3y = 5<br>
 

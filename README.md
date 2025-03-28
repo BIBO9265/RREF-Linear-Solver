@@ -28,3 +28,35 @@ For the system of equations:
 x + y = 3
 2x + 3y = 5
 ```
+
+The augmented matrix would be represented as:
+```bash
+1 1 3
+2 3 5
+```
+
+Input:
+```bash
+1 1 3
+2 3 5
+```
+Output:
+
+```bash
+Iteration 0: Normalized [[1.0, 1.0, 3.0], [2.0, 3.0, 5.0]]
+Iteration 0: Row operations [[1.0, 1.0, 3.0], [0.0, 1.0, -1.0]]
+Iteration 1: Normalized [[1.0, 1.0, 3.0], [0.0, 1.0, -1.0]]
+Iteration 1: Row operations [[1.0, 0.0, 4.0], [0.0, 1.0, -1.0]]
+SOLUTION 0 = 4
+SOLUTION 1 = -1
+3
+5
+```
+This will result in a unique solution:
+```bash
+x = 4
+y = -1
+'''
+
+
+

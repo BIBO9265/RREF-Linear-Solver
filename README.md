@@ -23,9 +23,8 @@ To run the program, simply provide the augmented matrix as input:
 cargo run
 ```
 ## Example 1: Unique Solution
-For the system of equations:<br>
-x + y = 3<br>
-2x + 3y = 5<br>
-The augmented matrix would be represented as:<br>
-| 1 1 3 |<br>
-| 2 3 5 |<br>
+For the system of equations:
+```bash
+x + y = 3
+2x + 3y = 5
+```

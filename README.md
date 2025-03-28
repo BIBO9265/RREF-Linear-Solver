@@ -96,3 +96,46 @@ SOLUTION SET
 ```
 
 This system has infinite solutions, as there are dependent equations, and one equation can be derived from the other.
+
+## Example 3: No Solution (Inconsistent)
+For the system of equations:
+```bash
+x + y = 3
+x + y = 5
+```
+
+The augmented matrix would be represented as:
+```bash
+1 1 3
+1 1 5
+```
+
+Input:
+```bash
+1 1 3
+1 1 5
+```
+
+Output:
+```bash
+Iteration 0: Normalized [[1.0, 1.0, 3.0], [1.0, 1.0, 5.0]]
+Iteration 0: Row operations [[1.0, 1.0, 3.0], [0.0, 0.0, 2.0]]
+Iteration 1: Error: matrix[row][row] = 0
+Iteration 1: "Index out of matrix bounds"
+Index out of matrix bounds
+INCONSISTENT
+```
+
+This system is inconsistent and has no solution because the two equations contradict each other.
+
+
+
+
+
+
+
+
+
+
+
+

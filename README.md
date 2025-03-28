@@ -22,5 +22,8 @@ To run the program, simply provide the augmented matrix as input:
 ```bash
 cargo run
 ```
-To run the program, simply provide the augmented matrix as input:
-```bash
+## Example 1: Unique Solution
+For the system of equations:
+x + y = 3
+2x + 3y = 5
+

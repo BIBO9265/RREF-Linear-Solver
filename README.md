@@ -26,17 +26,6 @@ cargo run
 For the system of equations:<br>
 x + y = 3<br>
 2x + 3y = 5<br>
-\[
-\begin{bmatrix}
-1 & 1 & | & 3 \\
-2 & 3 & | & 5
-\end{bmatrix}
-\]
-
-\[
-\begin{bmatrix}
-1 & 0 & | & 4 \\
-0 & 1 & | & -1
-\end{bmatrix}
-\]
-
+The augmented matrix would be represented as:<br>
+| 1 1 3 |<br>
+| 2 3 5 |<br>

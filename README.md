@@ -66,3 +66,33 @@ First equation:
 4 + ( − 1 ) = 3
 This is true,as 3 = 3.
 ```
+## Example 2: Infinite Solutions
+For the system of equations:
+```bash
+x + y = 3
+2x + 2y = 6
+```
+
+The augmented matrix would be represented as:
+```bash
+1 1 3
+2 2 6
+```
+
+Input:
+```bash
+1 1 3
+2 2 6
+```
+
+Output:
+```bash
+Iteration 0: Normalized [[1.0, 1.0, 3.0], [2.0, 2.0, 6.0]]
+Iteration 0: Row operations [[1.0, 1.0, 3.0], [0.0, 0.0, 0.0]]
+Iteration 1: Error: matrix[row][row] = 0
+Iteration 1: "Index out of matrix bounds"
+Index out of matrix bounds
+SOLUTION SET
+```
+
+This system has infinite solutions, as there are dependent equations, and one equation can be derived from the other.

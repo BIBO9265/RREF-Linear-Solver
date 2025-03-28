@@ -33,3 +33,10 @@ x + y = 3<br>
 \end{bmatrix}
 \]
 
+\[
+\begin{bmatrix}
+1 & 0 & | & 4 \\
+0 & 1 & | & -1
+\end{bmatrix}
+\]
+

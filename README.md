@@ -21,3 +21,5 @@ A program implementing the Gauss-Jordan Elimination method to solve systems of l
 To run the program, simply provide the augmented matrix as input:
 ```bash
 cargo run
+To run the program, simply provide the augmented matrix as input:
+```bash

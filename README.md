@@ -60,8 +60,9 @@ y = -1
 ```
 
 Verification:<br>
-Substitute 𝑥 = 4 and 𝑦 = − 1 into the original equations:<br>
-First equation:<br>
-4 + ( − 1 ) = 3<br>
-This is true,as 3 = 3 3=3.
-
+```bash
+Substitute 𝑥 = 4 and 𝑦 = − 1 into the original equations:
+First equation:
+4 + ( − 1 ) = 3
+This is true,as 3 = 3.
+```

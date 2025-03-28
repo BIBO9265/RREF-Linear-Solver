@@ -26,4 +26,21 @@ cargo run
 For the system of equations:<br>
 x + y = 3<br>
 2x + 3y = 5<br>
+[ 
+1
+2
+​
+  
+1
+3
+​
+  
+∣
+∣
+​
+  
+3
+5
+​
+ ]
 
